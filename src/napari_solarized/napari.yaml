@@ -1,0 +1,38 @@
+name: napari-solarized
+display_name: Napari Solarized
+contributions:
+  themes:
+
+  - id: solarized-dark
+    label: Solarized Dark
+    type: dark
+    syntax_style: 'solarized-dark'  # not exposed yet on npe2
+    colors:
+      canvas: black
+      console: '#001e26'
+      foreground: '#073642'
+      background: '#002b36'
+      primary: '#586e75'
+      secondary: '#586e75'
+      highlight: '#005a6f'
+      text: '#93a1a1'
+      icon: '#93a1a1'
+      warning: '#dc322f'
+      current: '#1f74c4'
+
+  - id: solarized-light
+    label: Solarized Light
+    type: light
+    syntax_style: 'solarized-light'  # not exposed yet on npe2
+    colors:
+      canvas: white
+      console: '#fdf6e3'
+      foreground: '#eee8d5'
+      background: '#fdf6e3'
+      primary: '#d1cbb8'
+      secondary: '#93a1a1'
+      highlight: '#d1cbb8'
+      text: '#586e75'
+      icon: '#586e75'
+      warning: '#dc322f'
+      current: '#dfca88'
