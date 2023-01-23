@@ -5,7 +5,7 @@ Solarized (-ish) themes for napari, based on [solarized](https://ethanschoonover
 ![solarized dark screenshot](https://raw.githubusercontent.com/aganders3/napari-solarized/main/screenshot_dark.png)
 ![solarized light screenshot](https://raw.githubusercontent.com/aganders3/napari-solarized/main/screenshot_light.png)
 
-[![License MIT](https://img.shields.io/pypi/l/napari-simple-segmentation.svg?color=green)](https://github.com/aganders3/napari-simple-segmentation/raw/main/LICENSE)
+[![License MIT](https://img.shields.io/pypi/l/napari-solarized.svg?color=green)](https://github.com/aganders3/napari-solarized/raw/main/LICENSE)
 [![PyPI](https://img.shields.io/pypi/v/napari-solarized.svg?color=green)](https://pypi.org/project/napari-solarized)
 [![Python Version](https://img.shields.io/pypi/pyversions/napari-solarized.svg?color=green)](https://python.org)
 [![tests](https://github.com/aganders3/napari-solarized/workflows/tests/badge.svg)](https://github.com/aganders3/napari-solarized/actions)
@@ -36,7 +36,7 @@ Contributions are very welcome.
 ## License
 
 Distributed under the terms of the [MIT] license,
-"napari-simple-segmentation" is free and open source software
+"napari-solarized" is free and open source software
 
 ## Issues
 
