@@ -9,7 +9,6 @@ Solarized (-ish) themes for napari, based on [solarized](https://ethanschoonover
 [![PyPI](https://img.shields.io/pypi/v/napari-solarized.svg?color=green)](https://pypi.org/project/napari-solarized)
 [![Python Version](https://img.shields.io/pypi/pyversions/napari-solarized.svg?color=green)](https://python.org)
 [![tests](https://github.com/aganders3/napari-solarized/workflows/tests/badge.svg)](https://github.com/aganders3/napari-solarized/actions)
-[![codecov](https://codecov.io/gh/aganders3/napari-solarized/branch/main/graph/badge.svg)](https://codecov.io/gh/aganders3/napari-solarized)
 [![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-solarized)](https://napari-hub.org/plugins/napari-solarized)
 
 ----------------------------------
